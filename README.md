@@ -34,7 +34,7 @@
 
 Privacy Policy
 
-No Sugar Journal respects your personal privacy. This application is completely local and offline only. All data is stored locally on your device and will not be uploaded to any server.
+No Sugar Diary respects your personal privacy. This application is completely local and offline only. All data is stored locally on your device and will not be uploaded to any server.
 
 1. Data Storage and Usage
 Your diary entries, habit records, settings, and other information are stored only on your local device and will not be uploaded, synchronized, or disclosed externally.
